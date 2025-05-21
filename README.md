@@ -1,6 +1,6 @@
 ### 懒怪的角色设计作品集——本仓库为备用仓库，主要仓库在gitee上：https://gitee.com/lzmstr/character
  ****可视化的角色资料卡片见gitee的wiki：http://gitee.com/lzmstr/character/wikis**   
-[![输入图片说明](UI%E3%80%81%E5%89%A7%E6%83%85%E3%80%81%E4%B8%96%E7%95%8C%E8%A7%82%E3%80%81%E6%80%BB%E8%A7%88%E7%AD%89/UI/0002.png)  ](http://gitee.com/lzmstr/character/wikis
+[![输入图片说明](UI%E3%80%81%E5%89%A7%E6%83%85%E3%80%81%E4%B8%96%E7%95%8C%E8%A7%82%E3%80%81%E6%80%BB%E8%A7%88%E7%AD%89/UI/0002.png)  (http://gitee.com/lzmstr/character/wikis)
 ### 最新企划：沧龙世家
 沧龙化形的角色设计，一个欧洲世系的其中几代人，时间跨度从荷兰黄金时代一直到现代。这一企划目前无AI元素。     
 ![输入图片说明](UI%E3%80%81%E5%89%A7%E6%83%85%E3%80%81%E4%B8%96%E7%95%8C%E8%A7%82%E3%80%81%E6%80%BB%E8%A7%88%E7%AD%89/%E7%AC%AC%E4%BA%8C%E6%89%B9%EF%BC%9A%E6%B2%A7%E9%BE%99%E4%B8%96%E5%AE%B6.png)
