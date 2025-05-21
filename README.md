@@ -27,4 +27,4 @@
 之前搞了一个别的主页 https://flowus.cn/lzmstr/share/d81f9280-4a24-49c8-9181-345dd590db1c  
 (没有使用本站作为图床)  停止更新。现所有资料汇总到本仓库wiki。
 
-[![输入图片说明](https://gitee.com/lzmstr/character/raw/master/UI%E3%80%81%E5%89%A7%E6%83%85%E3%80%81%E4%B8%96%E7%95%8C%E8%A7%82%E3%80%81%E6%80%BB%E8%A7%88%E7%AD%89/UI/0001.png "在这里输入图片标题")](http://gitee.com/lzmstr)
+[![输入图片说明](UI%E3%80%81%E5%89%A7%E6%83%85%E3%80%81%E4%B8%96%E7%95%8C%E8%A7%82%E3%80%81%E6%80%BB%E8%A7%88%E7%AD%89/UI/0001.png "在这里输入图片标题")](http://gitee.com/lzmstr)
